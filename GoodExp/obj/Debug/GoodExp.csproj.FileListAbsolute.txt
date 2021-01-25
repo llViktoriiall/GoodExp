@@ -1,0 +1,10 @@
+C:\Users\Вікторія\source\repos\GoodExp\GoodExp\bin\Debug\GoodExp.exe.config
+C:\Users\Вікторія\source\repos\GoodExp\GoodExp\bin\Debug\GoodExp.exe
+C:\Users\Вікторія\source\repos\GoodExp\GoodExp\bin\Debug\GoodExp.pdb
+C:\Users\Вікторія\source\repos\GoodExp\GoodExp\obj\Debug\GoodExp.csprojAssemblyReference.cache
+C:\Users\Вікторія\source\repos\GoodExp\GoodExp\obj\Debug\GoodExp.Form1.resources
+C:\Users\Вікторія\source\repos\GoodExp\GoodExp\obj\Debug\GoodExp.Properties.Resources.resources
+C:\Users\Вікторія\source\repos\GoodExp\GoodExp\obj\Debug\GoodExp.csproj.GenerateResource.cache
+C:\Users\Вікторія\source\repos\GoodExp\GoodExp\obj\Debug\GoodExp.csproj.CoreCompileInputs.cache
+C:\Users\Вікторія\source\repos\GoodExp\GoodExp\obj\Debug\GoodExp.exe
+C:\Users\Вікторія\source\repos\GoodExp\GoodExp\obj\Debug\GoodExp.pdb
